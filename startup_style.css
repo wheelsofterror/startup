@@ -13,13 +13,16 @@ html {
 h1 {
 	font-size: 3rem;
 	color: #e2dbdb;
-	margin:0 auto;
 }
 
 hr {
 	border-color: #F05F44;
 	border-width: 3px;
 	max-width: 65px;
+}
+
+button {
+	margin:0 auto;
 }
 
 .buffer {

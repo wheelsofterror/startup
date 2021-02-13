@@ -22,11 +22,15 @@ hr {
 }
 
 button {
-	margin:0 auto;
+	margin: 0 auto;
 }
 
 .buffer {
 	height: 10rem;
+}
+
+.container2 {
+	text-align: center;
 }
 
 .btn {
